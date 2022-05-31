@@ -1,4 +1,4 @@
-package first_project;
+package first_project.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
